@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omarTantawy
 - 👀 I’m interested in C++
-- 🌱 I’m currently learning MEAN Stack
-- 💞️ I’m looking to collaborate on C++/Rust
+- 🌱 I’m currently learning Rust and GO
+- 💞️ I’m looking to collaborate on C++/Rust/GO
 - 📫 How to reach me omartantawy94@gmail.com
 
 <!---
